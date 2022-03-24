@@ -33,111 +33,29 @@
 
 
 <h2>Tech stack</h2>
+<code><img height="40" width="40" src="https://logowiki.net/uploads/logo/p/php-1.svg"></code>
+<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg"></code>
+<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg"></code>
+<code><img height="40" width="40" src="https://icon-library.com/images/java-icon-png/java-icon-png-2.jpg"></code>
 
-<p align="center">
-  <b>Languages</b>
-  <br>
-  <br>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <code><img src="https://logowiki.net/uploads/logo/p/php-1.svg" alt="PHP" height="40"/></code>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg" alt="TypeScript" height="40"/></code>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <code><img src="https://icon-library.com/images/java-icon-png/java-icon-png-2.jpg" alt="Java" height="40"/></code>
-  </a>
-  <a href="https://go.dev" target="_blank">
-    <code><img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="Angular" height="40"/></code>
-  </a>
-</p>
+<h2>Frontend</h2>
+<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/html.svg"></code>
+<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg"></code>
+<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg"></code>
+<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/next.svg"></code>
+<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"></code>
 
-<br>
-<br>
+<h2>Backend</h2>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png"></code>
+<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/spring.svg"></code>
 
-<p align="center">
-  <b>Frontend</b>
-  <br>
-  <br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/html.svg" alt="HTML" height="40"/></code>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="40"/></code>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg" alt="TypeScript" height="40"/></code>
-  </a>
-  <br>
-  <a href="https://reactjs.org" target="_blank">
-    <code><img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="Angular" height="40"/></code>
-  </a>
-  <a href="https://preactjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/preact.svg" alt="PreactJS" height="40"/></code>
-  </a>
-  <a href="https://nextjs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/next.svg" alt="NextJS" height="40"/></code>
-  </a>
-</p>
+<h2>System & DevOps</h2>
+<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg"></code>
+<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/linux.svg"></code>
+<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/docker.svg"></code>
+<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/nginx.svg"></code>
+<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/pm2.svg"></code>
 
-<br>
-<br>
-
-<p align="center">
-  <b>Backend</b>
-  <br>
-  <br>
-  <a href="https://nodejs.org" target="_blank">
-   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" height="40"/></code>
-  </a>
-  <br>
-  <a href="https://spring.io" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/spring.svg" alt="Spring" height="40"/></code>
-  </a>
-</p>
-
-<br>
-<br>
-
-<p align="center">
-  <b>System & DevOps</b>
-  <br>
-  <br>
-  <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg" alt="Windows" height="40"/></code>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/linux.svg" alt="Linux" height="40"/></code>
-  </a>
-  <br>
-  <a href="https://docker.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/docker.svg" alt="Docker" height="40"/></code>
-  </a>
-  <a href="https://www.nginx.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/nginx.svg" alt="Nginx" height="40"/></code>
-  </a>
-  <a href="https://pm2.keymetrics.io" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/pm2.svg" alt="PM2" height="40"/></code>
-  </a>
-</p>
-
-<br>
-<br>
-
-<p align="center">
-  <b>Other</b>
-  <br>
-  <br>
-  <a href="https://www.electronjs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/electron.svg" alt="ElectronJS" height="40"/></code>
-  </a>
-</p>
 
 <!-- My Activity -->
 <h2>My Activity <img src="https://github.com/oHTGo/oHTGo/blob/main/images/github-stats.gif" height="35px"></h2>
