@@ -18,7 +18,7 @@
 <br>
 
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
-- 👨🏻‍💻 I am working at [Indianic Infotech](https://www.indianic.com/) as a `Backend Developer`.
+- 👨🏻‍💻 I am working at [Simform Solutions](https://www.simform.com/) as a `Sr Software Enginear`.
 - 🌱 I’m currently focusing on **Backend Web Development** and practicing **Frontend Web Development** and **DevOps** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
