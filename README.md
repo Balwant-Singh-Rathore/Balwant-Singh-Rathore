@@ -89,11 +89,26 @@ I’m comfortable owning features end-to-end and collaborating with
 ---
 
 ## 📂 Open Source & Code Samples
-👉 Check my repositories here:  
-🔗 **https://github.com/Balwant-Singh-Rathore**
+👉 Check my open-source repo here:
 🔗 **https://github.com/Balwant-Singh-Rathore/Laravel-Kafka-Event-Driven**
 
 (Some repositories are demos that reflect real-world production patterns.)
+
+
+## ✍️ Technical Writing & Engineering Insights
+
+I regularly write **practical, real-world engineering articles**
+based on my experience building and scaling production systems.
+
+Topics I cover include:
+- Laravel internals & best practices
+- Backend architecture & scalability
+- API design & performance optimization
+- Real-world engineering lessons from SaaS products
+
+📖 Medium profile:  
+👉 https://medium.com/@balwantsingh37807
+
 
 ---
 
