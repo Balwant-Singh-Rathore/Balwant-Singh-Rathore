@@ -51,7 +51,7 @@ I’m comfortable owning features end-to-end and collaborating with
 
 ## 🚀 Featured Work (Production Systems)
 
-### 🏆 Clubforce (Ireland) — Sports Club Management SaaS
+### 🏆 Sports Club Management SaaS
 - Laravel-based backend serving **multi-club architecture**
 - Complex **role & permission management**
 - Real-time features & event-driven systems
@@ -70,7 +70,7 @@ I’m comfortable owning features end-to-end and collaborating with
 
 ---
 
-### 💊 Larvol — Medical Intelligence Platform
+### 💊 Medical Intelligence Platform
 - APIs for tracking **KOL research & publications**
 - Background jobs & scheduled data pipelines
 - External data & social media integrations
@@ -91,6 +91,7 @@ I’m comfortable owning features end-to-end and collaborating with
 ## 📂 Open Source & Code Samples
 👉 Check my repositories here:  
 🔗 **https://github.com/Balwant-Singh-Rathore**
+🔗 **https://github.com/Balwant-Singh-Rathore/Laravel-Kafka-Event-Driven**
 
 (Some repositories are demos that reflect real-world production patterns.)
 
@@ -99,8 +100,7 @@ I’m comfortable owning features end-to-end and collaborating with
 ## 📬 Let’s Connect
 
 - 📧 Email: **balwantsingh37807@gmail.com**
-- 💼 LinkedIn: *(add your LinkedIn URL here)*
-- 🌍 Open to **full-time remote opportunities**
+- 💼 LinkedIn: *https://www.linkedin.com/in/balwant-singh-rathore*
 
 ---
 
