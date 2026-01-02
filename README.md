@@ -1,128 +1,108 @@
-<!-- Header -->
-<h1 align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6a99d0123750415.60f5531cae09e.gif" width="300">
-  <br>
-  Hi, I'm Balwant Singh Rathore <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
-</h1>
+# Hi, I’m Balwant Singh Rathore 👋  
+**Senior Software Engineer | Laravel • PHP • React • Next.js**  
+🌍 Remote-first | UTC-friendly
 
-<!-- Counter -->
-<p align="center">
-  <img alt="Profile 𝚟𝚒𝚎𝚠𝚜" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Balwant-Singh-Rathore&count_bg=%23579E91&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false">
-</p>
+---
 
-<p align="center">
-  <b>I'm a passionate programmer who loves to code</b>
-</p>
-<br>
+## 👨‍💻 About Me
 
-- ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
-- 👨🏻‍💻 I am working at [Simform Solutions](https://www.simform.com/) as a `Sr Software Enginear`.
-- 🌱 I’m currently focusing on **Backend Web Development** and practicing **Frontend Web Development** and **DevOps** everyday.
-- 💬 I’m looking forward to contribute to **Open Source Projects**.
-- Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
+I’m a **Senior Software Engineer with 6+ years of experience** building and scaling
+**SaaS platforms, marketplaces, and real-time systems** for global clients.
 
+I specialize in **Laravel & PHP backends**, modern frontend frameworks like
+**React & Next.js**, and **cloud-based architectures** on AWS.
 
-## 📈 GitHub Stats
-<br>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Balwant-Singh-Rathore&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Balwant-Singh-Rathore&theme=radical" />
-</p>
+I’ve worked on **high-traffic, production-grade applications** across domains
+including **sports tech, healthcare, fintech, and e-commerce**.
 
+I’m comfortable owning features end-to-end and collaborating with
+**remote, cross-functional teams**.
 
-<h2>Tech stack</h2>
-<code><img height="40" width="40" src="https://logowiki.net/uploads/logo/p/php-1.svg"></code>
-<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg"></code>
-<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg"></code>
-<code><img height="40" width="40" src="https://icon-library.com/images/java-icon-png/java-icon-png-2.jpg"></code>
+---
 
-<h2>Frontend</h2>
-<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/html.svg"></code>
-<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg"></code>
-<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg"></code>
-<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/next.svg"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"></code>
+## 🛠️ Core Expertise
 
-<h2>Backend</h2>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png"></code>
-<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/spring.svg"></code>
+**Backend**
+- PHP (Laravel, Lumen)
+- REST APIs, GraphQL
+- Authentication, Roles & Permissions
+- Queues, Jobs, Cron systems
 
-<h2>System & DevOps</h2>
-<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg"></code>
-<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/linux.svg"></code>
-<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/docker.svg"></code>
-<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/nginx.svg"></code>
-<code><img height="40" width="40" src="https://github.com/oHTGo/oHTGo/blob/main/images/pm2.svg"></code>
+**Frontend**
+- React, Next.js
+- Angular, Vue
+- Dashboard & admin interfaces
 
+**Databases & Messaging**
+- MySQL, PostgreSQL, Redis
+- Apache Kafka, RabbitMQ
 
-<!-- My Activity -->
-<h2>My Activity <img src="https://github.com/oHTGo/oHTGo/blob/main/images/github-stats.gif" height="35px"></h2>
-<details> 
- <b>⚡ GitHub Contribution</b></summary>
-  <br>
-  <p><img alt="Balwant's GitHub Contribution" src="https://github.com/oHTGo/oHTGo/blob/snake/snake.svg"/></p>
-  <br>
-</details>
-<details> 
-  <summary><b>📊 Wakatime Stats</b></summary>
-  <br>
-  
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2024%20mins-blue)
+**Cloud & DevOps**
+- AWS (EC2, S3, RDS, IAM, CloudWatch)
+- Docker, CI/CD pipelines
+- Scalable & microservices architecture
 
-**I'm a Night 🦉**
+**Integrations**
+- Stripe, PayPal, Razorpay
+- Twilio, WhatsApp Business API
+- Google Maps & third-party APIs
 
-```text
-🌞 Morning    84 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.83%
-🌆 Daytime    145 commits    ███████░░░░░░░░░░░░░░░░░░   30.79%
-🌃 Evening    194 commits    ██████████░░░░░░░░░░░░░░░   41.19%
-🌙 Night      48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.19%
+---
 
-```
+## 🚀 Featured Work (Production Systems)
 
-📅 **I'm Most Productive on Tuesday**
+### 🏆 Clubforce (Ireland) — Sports Club Management SaaS
+- Laravel-based backend serving **multi-club architecture**
+- Complex **role & permission management**
+- Real-time features & event-driven systems
+- Microservices architecture with Docker & AWS
 
-```text
-Monday       73 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.5%
-Tuesday      86 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.26%
-Wednesday    74 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.71%
-Thursday     36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.64%
-Friday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.68%
-Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.16%
-Sunday       85 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.05%
+**Tech:** Laravel, MySQL, Kafka, AWS, Docker
 
-```
+---
 
-📊 **This Week I Spent My Time On**
+### 🏥 Qayimdactory — Healthcare Discovery Platform (Dubai)
+- Doctor discovery, booking, real-time chat
+- WebSockets & Redis for live updates
+- Third-party healthcare data integrations
 
-```text
-⌚︎ Time Zone: Asia/Ho_Chi_Minh
+**Tech:** Laravel, Redis, AWS, WebSockets
 
-💬 Programming Languages:
-Other                    18 hrs 45 mins      █████████████████░░░░░░░░   69.59%
-TypeScript               3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19%
-CSS                      2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.22%
-Java                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.1%
-JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49%
+---
 
-🔥 Editors:
-Browser                  18 hrs 2 mins       ████████████████░░░░░░░░░   66.94%
-VS Code                  7 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.97%
-NetBeans                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.09%
+### 💊 Larvol — Medical Intelligence Platform
+- APIs for tracking **KOL research & publications**
+- Background jobs & scheduled data pipelines
+- External data & social media integrations
 
-```
+**Tech:** Laravel, MySQL, AWS
 
-<!--END_SECTION:waka-->
-</details>
+---
 
-<!-- Connection -->
-<h2> Connect with me <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h2>
-<p align="center">
-</p>
+### 🛒 HobbyCollect — Live Bidding & E-commerce Platform
+- Real-time bidding using WebSockets
+- Secure payments & notification workflows
+- Seller dashboards & order management
 
-<!-- Signal -->
-<p align="right">
-  <img alt="Signal" height="25px" src="https://media.giphy.com/media/hlRzt8TxCNVcEZBt9w/giphy.gif">
-  <br>
-  <em>Lil Huy</em>
-</p>
+**Tech:** Laravel, React, Redis, AWS, Twilio
+
+---
+
+## 📂 Open Source & Code Samples
+👉 Check my repositories here:  
+🔗 **https://github.com/Balwant-Singh-Rathore**
+
+(Some repositories are demos that reflect real-world production patterns.)
+
+---
+
+## 📬 Let’s Connect
+
+- 📧 Email: **balwantsingh37807@gmail.com**
+- 💼 LinkedIn: *(add your LinkedIn URL here)*
+- 🌍 Open to **full-time remote opportunities**
+
+---
+
+_If you’re building a SaaS product or scaling a backend system,  
+I’d be happy to connect._
